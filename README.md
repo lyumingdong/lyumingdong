@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **lyumingdong@gmail.com**
 
+- 📄 Know about my experiences [https://lyumingdong.github.io/](https://lyumingdong.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
